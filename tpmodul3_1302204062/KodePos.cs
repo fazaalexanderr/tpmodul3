@@ -6,11 +6,6 @@ namespace tpmodul3_1302204062
     {
         public enum Kode {Batununggal, Kujangsari, Mengger, Wates, Cijaura, Jatisari, Margasari, Sekejati, Kebonwaru, Maleer, Samoja};
 
-        internal int GetKodePos(object jatisari)
-        {
-            throw new NotImplementedException();
-        }
-
         public KodePos()
         {
         }
